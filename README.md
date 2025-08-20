@@ -15,6 +15,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,figma,github,html,java,js,mongodb,mysql,nextjs,nodejs,py,react,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,figma,github,html,java,js,mongodb,mysql,nextjs,nodejs,py,react,vscode," />
   </a>
 </p>
