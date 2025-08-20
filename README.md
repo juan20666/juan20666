@@ -10,16 +10,15 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-I am a Software Engineering student, currently halfway through my degree. I’m passionate about building innovative, creative, and useful projects, and I also work on personal projects that mix web development, game design, and AI.
-🌱 I’m currently learning ...
-React.js
-Java & Spring Boot
-👯 I’m looking forward to collaborate on open source projects.
-✔ Ask me about anything related to programming or software development!
-Outside tech, 🎮 I enjoy videogames, 🎵 listening to music, 📖 reading science books, and 🌍 exploring nature.
-👾 I also create content about technology and programming on my social media.
-📫 Reach out to me at: <a href="juanpablo0021929@gmail.com">tuemail@gmail.com
-</a>
+I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - Java
+  - React js
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 
 
