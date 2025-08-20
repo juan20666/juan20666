@@ -11,14 +11,14 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 I am a Software Engineering student, currently halfway through my degree. I’m passionate about building innovative, creative, and useful projects, and I also work on personal projects that mix web development, game design, and AI.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in AI and new technologies**
 - 🌱 I’m currently learning ...
-  - Java
   - React js
+  - Java & Spring Boot
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- ✔ Ask me about anything related to programming or software development!😉<br>
+- Outside tech, 🎮 I enjoy videogames, 🎵 listening to music, 📖 reading books, and 🌍 exploring nature.
+- 📫 Reach out to me at: <a href="mailto:tuemail@gmail.com">juanpablo0021929@gmail.com</a>
 
 
 
