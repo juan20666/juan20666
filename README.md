@@ -20,7 +20,7 @@ I am a Software Engineering student, currently halfway through my degree. I’m 
 - Outside tech, 🎮 I enjoy videogames, 🎵 listening to music, 📖 reading books, and 🌍 exploring nature.
 - 📫 Reach out to me at: <a href="mailto:tuemail@gmail.com">juanpablo0021929@gmail.com</a>
 
-
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***
 
 <div id="user-content-toc">
   <ul align="center">
