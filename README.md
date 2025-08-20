@@ -10,28 +10,16 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-I’m a Software Engineering student from Colombia, currently halfway through my degree. I’m passionate about technology, innovation, and problem-solving, and I enjoy bringing creative ideas to life through code.
-💻 Tech stack I’m confident with:
-C, C++, Java, Python, JavaScript, HTML, Shell
-🌱 Currently learning and exploring:
-React.js for modern web development
-Java & Spring Boot for backend projects
-Artificial Intelligence & Computer Vision (YOLO models) applied to real-world use cases
-🚀 Some things I’ve built/worked on:
-A video game in GDevelop with level-based mechanics (map of Colombia as the level selector 🎮)
-A Spring Boot project connecting front-end forms with backend logic
-An AI-based camera system project, aiming to apply real-time object detection (like weapons/persons recognition)
-👯 I’m looking to collaborate on:
-Open source projects, AI/computer vision ideas, and innovative applications that can create real impact.
-✔ Ask me about:
-Programming, algorithms, backend development, game logic, or creative ways to apply AI in projects.
-💜 Outside tech:
-🎮 Playing videogames, 🎵 listening to music, 📖 reading about science & innovation, and 🌍 exploring nature.
-👾 I also enjoy creating content about technology and programming, sharing knowledge and ideas with the community.
-📫 Reach me at:
-<a href="mailto:tuemail@gmail.com">tuemail@gmail.com
+I am a Software Engineering student, currently halfway through my degree. I’m passionate about building innovative, creative, and useful projects, and I also work on personal projects that mix web development, game design, and AI.
+🌱 I’m currently learning ...
+React.js
+Java & Spring Boot
+👯 I’m looking forward to collaborate on open source projects.
+✔ Ask me about anything related to programming or software development!
+Outside tech, 🎮 I enjoy videogames, 🎵 listening to music, 📖 reading science books, and 🌍 exploring nature.
+👾 I also create content about technology and programming on my social media.
+📫 Reach out to me at: <a href="juanpablo0021929@gmail.com">tuemail@gmail.com
 </a>
-
 
 
 
