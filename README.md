@@ -10,15 +10,27 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+I’m a Software Engineering student from Colombia, currently halfway through my degree. I’m passionate about technology, innovation, and problem-solving, and I enjoy bringing creative ideas to life through code.
+💻 Tech stack I’m confident with:
+C, C++, Java, Python, JavaScript, HTML, Shell
+🌱 Currently learning and exploring:
+React.js for modern web development
+Java & Spring Boot for backend projects
+Artificial Intelligence & Computer Vision (YOLO models) applied to real-world use cases
+🚀 Some things I’ve built/worked on:
+A video game in GDevelop with level-based mechanics (map of Colombia as the level selector 🎮)
+A Spring Boot project connecting front-end forms with backend logic
+An AI-based camera system project, aiming to apply real-time object detection (like weapons/persons recognition)
+👯 I’m looking to collaborate on:
+Open source projects, AI/computer vision ideas, and innovative applications that can create real impact.
+✔ Ask me about:
+Programming, algorithms, backend development, game logic, or creative ways to apply AI in projects.
+💜 Outside tech:
+🎮 Playing videogames, 🎵 listening to music, 📖 reading about science & innovation, and 🌍 exploring nature.
+👾 I also enjoy creating content about technology and programming, sharing knowledge and ideas with the community.
+📫 Reach me at:
+<a href="mailto:tuemail@gmail.com">tuemail@gmail.com
+</a>
 
 
 
